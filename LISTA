@@ -648,3 +648,61 @@ http://castlempire.site:8080/UserTest4Octubre_00r/uek4neVNWyxE/192700
 http://castlempire.site:8080/UserTest2Octubre_00r/bqCs7jw4KQJa/204875
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z" tvg-logo="http://castlempire.site:8080/images/b61df32f7a7c985d173d26bf7ecdd014.png" group-title="24/7 - Anime",24/7 | DRAGON BALL Z
 http://castlempire.site:8080/UserTest1Octubre_00r/fTQHy3hQDtjs/240240
+
+#EXTINF:-1 tvg-id='184' tvg-name='EnerGeek Fanpop' tvg-logo='https://www.coolstreaming.us/img/ch/ima32115728874.jpg', EnerGeek Fanpop * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='627' tvg-name='EnerGeek Señal 3' tvg-logo='https://www.energeek.cl/uploads/backgrounds/energeekstream.png', EnerGeek Señal 3 * | CL
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='650' tvg-name='hj' tvg-logo='jj', hj * | AR
+jj
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='801' tvg-name='Latino Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/latinokids.png', Latino Kids * | AR
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1091' tvg-name='Cine Canal' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Canal * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1488' tvg-name='Cine Canal' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Canal * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='456' tvg-name='Cine Cartoon' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Cartoon * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='779' tvg-name='Latino Kids' tvg-logo='https://www.iptvgratis.cl/logocanal/latinokids.png', Latino Kids * | CL
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='163' tvg-name='ELCHAVOPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/09/elchavo.jpg', ELCHAVOPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='711' tvg-name='CLOUDTVPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png', CLOUDTVPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='230' tvg-name='TOMYJERRYPLUS' tvg-logo='https://www.iptvgratis.cl/logocanal/tomyyerry.jpg', TOMYJERRYPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1460' tvg-name='LOS PICAPIEDRASPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/lospicapiedrasplus.png', LOS PICAPIEDRASPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1356' tvg-name='Cine Cartoon' tvg-logo='https://www.cloudproserver.com/wp-content/uploads/2023/02/cinecanal.jpg', Cine Cartoon * | CL
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='678' tvg-name='EnerGeek Retro' tvg-logo='https://energeek.cl/uploads/logos/Retro-new.png', EnerGeek Retro * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='594' tvg-name='EnerGeek Fanpop' tvg-logo='https://energeek.cl/uploads/logos/EGFanpop.png', EnerGeek Fanpop * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='1358' tvg-name='EnerGeek Animate' tvg-logo='https://energeek.cl/uploads/logos/EGAnimate.png', EnerGeek Animate * | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='461' tvg-name='EnerGeek Radio' tvg-logo='https://energeek.cl/uploads/logos/Radio.png', EnerGeek Radio * | CL
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id='883' tvg-name='TOMYJERRYPLUS' tvg-logo='https://www.iptvgratis.cl/logocanal/tomyyerry.jpg', TOMYJERRYPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+#EXTINF:-1 tvg-id='866' tvg-name='CLOUDTVPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png', CLOUDTVPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
+#EXTINF:-1 tvg-id='739' tvg-name='LOS PICAPIEDRASPLUS' tvg-logo='https://www.iptvgratis.cl/wp-content/uploads/2022/10/lospicapiedrasplus.png', LOS PICAPIEDRASPLUS * | CL
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
